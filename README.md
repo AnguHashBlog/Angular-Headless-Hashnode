@@ -2,7 +2,7 @@
 
 ## From a personal repository to a GitHub Organization  
 
-This repository serves as a closely replicated mirror of the original project, initially hosted in my personal repository under @monacodelisa. 
+This repository serves as a close replica of the original project, initially hosted in my personal repository under @monacodelisa. 
 
 The decision to migrate from a personal repository to a GitHub organization stems from practical considerations and the necessity for more effective project management.
 
