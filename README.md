@@ -1,1 +1,1 @@
-# Angular-Headless-Hashnode
+# Angular Headless Hashnode is now HashnodeNG
