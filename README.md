@@ -21,7 +21,7 @@ However, it appears that this was not universally understood by others temporari
 
 Despite differing opinions on whether the project's size requires a GitHub organization, this move is aimed at providing room for growth and ensuring the project's sustained development.
 
-In summary, this migration signifies a strategic step toward enhanced project management, streamlined collaboration, and continued alignment with open-source principles. I appreciate your ongoing support and commitment to project guidelines as we navigate this transition.
+In summary, this migration signifies a strategic step toward enhanced project management, streamlined collaboration, and continued alignment with open-source principles. With the move to a GitHub organization, members will benefit from clearly defined roles, fostering a more structured and effective collaborative environment. I appreciate your ongoing support and commitment to project guidelines as we navigate this transition.
 
 ### Esther White
 Project Owner, Lead Developer and Maintainer
